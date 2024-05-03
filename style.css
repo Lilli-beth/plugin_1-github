@@ -15,8 +15,8 @@ Text Domain: lilli
 //$icomoon-font-path:"./assets/fonts/" !default;*/
 @font-face {
   font-family: "icomoon";
-  src: url("assets/fonts/icomoon.eot?2fg7qt");
-  src: url("assets/fonts/icomoon.eot?2fg7qt#iefix") format("embedded-opentype"), url("assets/fonts/icomoon.ttf") format("truetype"), url("assets/fonts/icomoon.woff") format("woff"), url("assets/fonts/icomoon.svg") format("svg");
+  src: url("../../assets/fonts/icomoon.eot?2fg7qt");
+  src: url("../../assets/fonts/icomoon.eot?2fg7qt#iefix") format("embedded-opentype"), url("../../assets/fonts/icomoon.ttf") format("truetype"), url("../../assets/fonts/icomoon.woff") format("woff"), url("../../assets/fonts/icomoon.svg") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -68,73 +68,73 @@ Text Domain: lilli
   font-display: swap;
   font-family: "AvenirNextReg";
   font-style: normal;
-  src: url("assets/fonts/Avenir Next LT Pro Regular.otf") format("otf");
+  src: url("../../assets/fonts/Avenir Next LT Pro Regular.otf") format("otf");
 }
 @font-face {
   font-display: swap;
   font-family: "AvenirNextDemi";
   font-style: normal;
-  src: url("assets/fonts/Avenir Next LT Pro Demi.otf") format("otf");
+  src: url("../../assets/fonts/Avenir Next LT Pro Demi.otf") format("otf");
 }
 @font-face {
   font-display: swap;
   font-family: "AvenirNextBold";
   font-style: normal;
-  src: url("assets/fonts/Avenir Next LT Pro Bold.otf") format("otf");
+  src: url("../../assets/fonts/Avenir Next LT Pro Bold.otf") format("otf");
 }
 @font-face {
   font-display: swap;
   font-family: "Alice";
-  src: url("assets/fonts/Alice-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/Alice-Regular.ttf") format("truetype");
 }
 @font-face {
   font-display: swap;
   font-family: "DosisLight";
-  src: url("assets/fonts/Dosis-Light.ttf") format("truetype");
+  src: url("../../assets/fonts/Dosis-Light.ttf") format("truetype");
 }
 @font-face {
   font-display: swap;
   font-family: "DosisRegular";
-  src: url("assets/fonts/Dosis-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/Dosis-Regular.ttf") format("truetype");
 }
 @font-face {
   font-display: swap;
   font-family: "DosisRegular";
-  src: url("assets/fonts/Dosis-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/Dosis-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Englebert";
-  src: url("assets/fonts/Englebert-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/Englebert-Regular.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "PatrickHandSC";
-  src: url("assets/fonts/PatrickHandSC-Regular.ttf") format("truetype"), url("assets/fonts/patrickhandsc-regular-webfont.woff") format("woff2"), url("assets/fonts/patrickhandsc-regular-webfont.woff2") format("woff");
+  src: url("../../assets/fonts/PatrickHandSC-Regular.ttf") format("truetype"), url("../../assets/fonts/patrickhandsc-regular-webfont.woff") format("woff2"), url("../../assets/fonts/patrickhandsc-regular-webfont.woff2") format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: "RedHat";
-  src: url("assets/fonts/RedHatDisplay-VariableFont_wght.ttf") format("truetype");
+  src: url("../../assets/fonts/RedHatDisplay-VariableFont_wght.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "RockSalt";
-  src: url("assets/fonts/RockSalt-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/RockSalt-Regular.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "ShadowsIntoLight";
-  src: url("assets/fonts/ShadowsIntoLight-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/ShadowsIntoLight-Regular.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "QwitcherGrypen";
-  src: url("assets/fonts/QwitcherGrypen-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/QwitcherGrypen-Regular.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "Waterfall";
-  src: url("assets/fonts/Waterfall-Regular.ttf") format("truetype");
+  src: url("../../assets/fonts/Waterfall-Regular.ttf") format("truetype");
   font-display: swap;
 }
 /* *** BASIS *** */
